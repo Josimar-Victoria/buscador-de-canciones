@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-<img src='https://github.com/Josimar-Victoria/buscador-de-canciones/blob/main/Captura%20de%20pantalla%20de%202021-11-22%2014-33-44.png?raw=true' alt='img'/>
+<img src='https://github.com/Josimar-Victoria/buscador-de-canciones/blob/main/Captura%20de%20pantalla%20de%202021-11-22%2014-34-46.png?raw=true' alt='img'/>
 <img src='https://github.com/Josimar-Victoria/buscador-de-canciones/blob/main/Captura%20de%20pantalla%20de%202021-11-22%2014-33-44.png?raw=true' alt='img'/>
 
 
