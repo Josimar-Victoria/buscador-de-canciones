@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
-<img src='![image](https://user-images.githubusercontent.com/78392799/142924067-9ee6e383-3331-4368-ab01-c1ecb68bcd8a.png)'/>
+<img src='https://github.com/Josimar-Victoria/buscador-de-canciones/blob/main/Captura%20de%20pantalla%20de%202021-11-22%2014-33-44.png?raw=true' alt='img'/>
+<img src='https://github.com/Josimar-Victoria/buscador-de-canciones/blob/main/Captura%20de%20pantalla%20de%202021-11-22%2014-33-44.png?raw=true' alt='img'/>
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
