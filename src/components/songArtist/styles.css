@@ -1,0 +1,33 @@
+.song_artist {
+  margin-top: 3rem;
+  border-top: 1px solid #fff;
+}
+
+.song_artist-content {
+  display: flex;
+  flex-direction: column;
+}
+
+.song_artist-name {
+  text-align: center;
+}
+.song_artist-img {
+  max-width: 300px;
+  margin: 0 auto;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
+}
+
+.song_artist-info {
+  margin: 0 auto;
+}
+
+.song_artist-biography {
+  max-width: 80%;
+  margin: 0 auto;
+  border-top: 1px solid #fff;
+  margin-top: 1rem;
+}

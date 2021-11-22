@@ -1,0 +1,14 @@
+.lyrics {
+ margin-top: 2rem;
+}
+.lyrics_content{
+    text-align: center;
+}
+.title_lyrics{
+    font-weight: bold;
+    font-size: 2rem;
+}
+.text_lyrics {
+    margin-top: 2rem;
+    color: #fff;
+}
